@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: grid;
+  row-gap: 50px;
+  width: 50%;
+  justify-content: center;
+  position: absolute;
+  left: 25%;
+}
